@@ -173,3 +173,14 @@ if(diaSemana != "sabado" && diaSemana != "domingo"){
 } else {
     console.log("O banco está fechado, tente outro dia")
 }
+
+// Estrutura de Repetição
+// Atividade 1
+for(let i = 0; i < 7; i++){
+    console.log("Bom dia, grupo!")
+}
+
+// Atividade 2
+for(let i = 0; i < 10; i++){
+    console.log("7 x " + i + "!")
+}
